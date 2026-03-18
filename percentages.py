@@ -1,0 +1,5 @@
+x=int(input())
+y=int(input())
+z=int(input())
+percentages=(x/y*100)
+print(round(percentages, z))
