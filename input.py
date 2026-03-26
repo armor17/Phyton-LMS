@@ -1,6 +1,0 @@
-name=input()
-place=input()
-holiday=input()
-print(name, '!')
-print('Приглашаем отметить праздник', holiday, 'вместе с нами!')
-print(place, '- лучшее место для праздника!')
